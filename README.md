@@ -42,7 +42,7 @@ email       : mohammedtaabisha@gmail.com
 
 <td>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320px"/>
+<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/main/254237989.jpg" width="320px" style="border-radius:20px;" />
 
 </td>
 </tr>
