@@ -166,13 +166,19 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </p>
 
