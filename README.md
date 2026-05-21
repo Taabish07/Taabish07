@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=MOHAMMED%20TAABISH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=MOHAMMED%20TAABISH%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlignY=58&descSize=20" />
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@
 <td width="60%">
 
 ```yaml
-name        : Mohammed Taabish
+name        : Mohammed Taabish A
 location    : Coimbatore, Tamil Nadu 🇮🇳
 education   : Pursuing M.Sc Information Technology
 previous    : B.Sc Computer Technology with Blockchain & Distributed Computing
