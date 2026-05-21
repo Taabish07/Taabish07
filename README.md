@@ -213,11 +213,6 @@ AR/VR • HTML • CSS • JavaScript
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Taabish07/Taabish07/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 👀 Profile Views
 
