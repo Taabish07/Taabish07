@@ -79,13 +79,9 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
 <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 
 </p>
@@ -97,11 +93,8 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
-
 <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-
 <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
 
 </p>
@@ -113,13 +106,9 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" />
-
 <img src="https://img.shields.io/badge/Web3.js-111111?style=for-the-badge&logo=web3.js&logoColor=F16822" />
-
 <img src="https://img.shields.io/badge/MetaMask-111111?style=for-the-badge&logo=metamask&logoColor=F6851B" />
-
 <img src="https://img.shields.io/badge/Avalanche-111111?style=for-the-badge&logo=avalanche&logoColor=E84142" />
 
 </p>
@@ -131,13 +120,9 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-
 <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-
 <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-
 <img src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=D00000" />
-
 <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
 
 </p>
@@ -149,13 +134,9 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-
 <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-
 <img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=green" />
-
 <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
 
 </p>
@@ -179,11 +160,8 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Web3-Developer-orange?style=for-the-badge" />
 
 </p>
@@ -205,9 +183,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
 
@@ -217,7 +195,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Taabish07&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taabish07&theme=tokyonight&hide_border=true" />
 
 </p>
 
