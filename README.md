@@ -1,24 +1,15 @@
+<h1 align="center">MOHAMMED TAABISH A</h1>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=MOHAMMED%20TAABISH%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlignY=58&descSize=20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Blockchain+Developer;AI%2FML+Enthusiast;Web3+Builder;MERN+Stack+Developer;Smart+Contract+Learner" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Hackathon+Winner;MERN+Stack+Developer;Building+Futuristic+Applications;Blockchain+Developer;AI%2FML+Enthusiast" />
+### 🚀 Blockchain Developer | AI/ML Enthusiast | Web3 Builder
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Taabish07?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
+<img src="https://komarev.com/ghpvc/?username=Taabish07&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Taabish07?label=Followers&style=for-the-badge&color=A855F7" />
 
 </div>
 
@@ -28,7 +19,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td>
 
 ```yaml
 name        : Mohammed Taabish A
@@ -40,21 +31,20 @@ portfolio   : https://taabish-portfolio.netlify.app
 email       : mohammedtaabisha@gmail.com
 ```
 
-- 🔭 Building Blockchain & Web3 Applications
-- 🌱 Learning Smart Contracts & AI/ML
-- 🧠 Passionate about NLP & Computer Vision
-- 🏆 Winner — Hackstronauts 24-Hour Hackathon
-- 🎤 Host & Speaker at Tech Events
-- ⚡ Building futuristic decentralized applications
+- 🔭 Building Blockchain & Web3 Applications  
+- 🌱 Learning Smart Contracts & AI/ML  
+- 🧠 Passionate about NLP & Computer Vision  
+- 🏆 Winner — Hackstronauts 24-Hour Hackathon  
+- 🎤 Host & Speaker at Tech Events  
+- ⚡ Building futuristic decentralized applications  
 
 </td>
 
-<td width="40%">
+<td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320px"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -78,11 +68,12 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss"/>
 
 </p>
 
@@ -92,10 +83,10 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase"/>
 
 </p>
 
@@ -105,11 +96,10 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" />
-<img src="https://img.shields.io/badge/Web3.js-111111?style=for-the-badge&logo=web3.js&logoColor=F16822" />
-<img src="https://img.shields.io/badge/MetaMask-111111?style=for-the-badge&logo=metamask&logoColor=F6851B" />
-<img src="https://img.shields.io/badge/Avalanche-111111?style=for-the-badge&logo=avalanche&logoColor=E84142" />
+<img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity"/>
+<img src="https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum"/>
+<img src="https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=web3dotjs"/>
+<img src="https://img.shields.io/badge/MetaMask-black?style=for-the-badge&logo=metamask"/>
 
 </p>
 
@@ -119,11 +109,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=D00000" />
-<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
 
 </p>
 
@@ -133,11 +121,10 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=green" />
-<img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
 
 </p>
 
@@ -159,10 +146,10 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web3-Developer-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon-Winner-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-Developer-orange?style=for-the-badge"/>
 
 </p>
 
@@ -183,9 +170,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -195,7 +182,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taabish07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -205,7 +192,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -215,7 +202,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -225,7 +212,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-[![Taabish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taabish07&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true)](https://github.com/Taabish07)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taabish07&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -236,19 +223,15 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <a href="https://taabish-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/mohammed-taabish-521308251">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Taabish-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Taabish07">
-<img src="https://img.shields.io/badge/GitHub-Taabish07-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Taabish07-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:mohammedtaabisha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mohammedtaabisha%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -259,18 +242,16 @@ email       : mohammedtaabisha@gmail.com
 
 ## ✨ Dev Quote of the Day
 
-<table>
-<tr>
-<td>
+<br>
 
-> ### *“First, solve the problem. Then, write the code.”*
->
-> — **John Johnson**
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Programs+must+be+written+for+people+to+read.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad." />
 
 </div>
 
 ---
+
+<div align="center">
+
+⭐ Star some repos if you find them interesting — it motivates me to keep building!
+
+</div>
