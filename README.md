@@ -231,26 +231,22 @@ email       : mohammedtaabisha@gmail.com
 <div align="center">
 
 <a href="https://taabish-portfolio.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-VISIT-8A2BE2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Taabish07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Taabish07-171515?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-taabish01" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohammedtaabisha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<div align="center">
 
 ## ✨ Dev Quote of the Day
 
