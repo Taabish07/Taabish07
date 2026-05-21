@@ -183,9 +183,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </p>
 
@@ -195,7 +195,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Taabish07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Taabish07&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </p>
 
@@ -252,6 +252,26 @@ email       : mohammedtaabisha@gmail.com
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+## ✍️ Dev Quote of the Day
+
+<table>
+<tr>
+<td>
+
+> ### *“If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.”*
+>
+> — **Gerald Weinberg**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
