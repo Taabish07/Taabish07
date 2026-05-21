@@ -244,7 +244,11 @@ email       : mohammedtaabisha@gmail.com
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Programs+must+be+written+for+people+to+read.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad." />
+<div align="center">
+
+## ✨ Dev Quote of the Day
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Experience+is+the+name+everyone+gives+to+their+mistakes.+%E2%80%94+Oscar+Wilde" />
 
 </div>
 
