@@ -7,8 +7,12 @@
 </p>
 
 </div>
+<div align="center">
 
 ### 🚀 Blockchain Developer | AI/ML Enthusiast | Web3 Builder
+
+</div>
+
 
 <div align="center">
 
