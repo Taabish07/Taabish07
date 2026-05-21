@@ -1,10 +1,10 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=MOHAMMED%20TAABISH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20|%20AI/ML%20Enthusiast%20|%20Web3%20Builder&descAlignY=58&descSize=20" />
+</p>
+
 <div align="center">
 
-# MOHAMMED TAABISH
-
-### 🚀 Blockchain Developer | Full Stack Developer | AI/ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Web3+Builder;Hackathon+Winner;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Futuristic+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Hackathon+Winner;MERN+Stack+Developer;Building+Futuristic+Applications;Blockchain+Developer;AI%2FML+Enthusiast" />
 
 <br><br>
 
@@ -33,7 +33,8 @@
 ```yaml
 name        : Mohammed Taabish
 location    : Coimbatore, Tamil Nadu 🇮🇳
-education   : B.Sc Computer Technology with Blockchain & Distributed Computing
+education   : Pursuing M.Sc Information Technology
+previous    : B.Sc Computer Technology with Blockchain & Distributed Computing
 focus       : Blockchain · MERN Stack · AI/ML · Web3
 portfolio   : https://taabish-portfolio.netlify.app
 email       : mohammedtaabisha@gmail.com
@@ -204,9 +205,9 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </p>
 
@@ -216,7 +217,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Taabish07&theme=radical&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Taabish07&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </p>
 
@@ -226,7 +227,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=radical&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
@@ -236,7 +237,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-[![Taabish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taabish07&theme=react-dark)](https://github.com/Taabish07)
+[![Taabish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taabish07&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true)](https://github.com/Taabish07)
 
 </p>
 
