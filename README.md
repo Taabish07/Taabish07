@@ -226,9 +226,9 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-<div align="center">
+# 🤝 Let's Connect
 
-## 🤝 Let's Connect
+<div align="center">
 
 <a href="https://taabish-portfolio.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-VISIT-8A2BE2?style=for-the-badge&logoColor=white"/>
