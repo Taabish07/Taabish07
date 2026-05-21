@@ -138,6 +138,7 @@ email       : mohammedtaabisha@gmail.com
 
 | 🚀 Project | 📖 Description | ⚙️ Stack |
 |---|---|---|
+| 💹 Binance Inspired Demo App | Blockchain-based fintech application inspired by Binance with wallet connectivity, smart contract integration, and modern responsive UI | React · JavaScript · CSS · Solidity · Ethereum · Web3.js · MetaMask |
 | 🪙 Prediction Market DApp | Blockchain-powered prediction market with wallet authentication | React · Solidity · Ethereum |
 | 📚 College Notes App | Academic notes management platform | MERN Stack |
 | 🌐 Developer Portfolio | Modern responsive portfolio website | React · Tailwind |
