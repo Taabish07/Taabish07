@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Taabish07&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=TaabishDev&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/Taabish07?label=FOLLOWERS&style=for-the-badge&color=A855F7" />
+<img src="https://img.shields.io/github/followers/TaabishDev?label=FOLLOWERS&style=for-the-badge&color=A855F7" />
 
 </div>
 
@@ -52,7 +52,7 @@ email       : mohammedtaabisha@gmail.com
 
 <td>
 
-<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/main/profile.png.jpeg" width="320px"/>
+<img src="https://raw.githubusercontent.com/TaabishDev/TaabishDev/main/profile.png.jpeg" width="320px"/>
 
 </td>
 
@@ -175,11 +175,11 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taabish07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TaabishDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taabish07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TaabishDev&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
@@ -190,7 +190,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taabish07&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaabishDev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -200,7 +200,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taabish07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TaabishDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -210,7 +210,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Taabish07/Taabish07/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/TaabishDev/TaabishDev/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -220,7 +220,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taabish07&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaabishDev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -234,7 +234,7 @@ email       : mohammedtaabisha@gmail.com
 <img src="https://img.shields.io/badge/_PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Taabish07" target="_blank">
+<a href="https://github.com/TaabishDev" target="_blank">
 <img src="https://img.shields.io/badge/_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
