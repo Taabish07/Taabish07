@@ -88,7 +88,7 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# ⚙️ Backend & Database
+ ⚙️ Backend & Database
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -99,7 +99,7 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# ⛓️ Blockchain & Web3
+ ⛓️ Blockchain & Web3
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
@@ -110,7 +110,7 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# 🤖 AI / Machine Learning
+ 🤖 AI / Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,7 +120,7 @@ email       : mohammedtaabisha@gmail.com
 
 ---
 
-# 🛠️ Tools & Platforms
+ 🛠️ Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
