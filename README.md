@@ -175,11 +175,11 @@ email       : mohammedtaabisha@gmail.com
 <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TaabishDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TaabishDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TaabishDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TaabishDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
 </a>
 
 </p>
@@ -190,7 +190,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaabishDev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaabishDev&theme=tokyonight&hide_border=true&cache_seconds=60"/>
 
 </p>
 
@@ -200,7 +200,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TaabishDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TaabishDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&cache_seconds=60"/>
 
 </p>
 
@@ -220,7 +220,7 @@ email       : mohammedtaabisha@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaabishDev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaabishDev&theme=tokyo-night&hide_border=true&cache_seconds=60"/>
 
 </p>
 
