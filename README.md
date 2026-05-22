@@ -248,6 +248,7 @@ email       : mohammedtaabisha@gmail.com
 
 </div>
 
+<div align="center">
 ## ✨ Dev Quote of the Day
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Experience+is+the+name+everyone+gives+to+their+mistakes.+%E2%80%94+Oscar+Wilde" />
