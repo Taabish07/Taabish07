@@ -151,6 +151,10 @@ email       : mohammedtaabisha@gmail.com
 <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web3-Developer-orange?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AR%2FVR-Web_App_Paper-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nilgiri_College-Certificate_of_Merit_(AR%2FVR_Web_App_Paper)-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.4.3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ---
